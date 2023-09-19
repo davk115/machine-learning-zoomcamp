@@ -1,7 +1,7 @@
-# Machine Learning Zoomcamp from DataTalksClub
+# Machine Learning Zoomcamp Course 2023 from DataTalksClub
 
 
-Homework and project work from the course.
+Homework and project work from the course. 
 
 
 
