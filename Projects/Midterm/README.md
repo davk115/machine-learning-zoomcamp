@@ -84,3 +84,15 @@ python test.py
 ````
 
 4. Edit the `employee` json in the `test.py` file to be able to test out other variations and get different results.
+
+
+## Deploying to the cloud
+
+I used https://render.com to deploy my Docker image.
+
+I created a webservice that can be accessed through https://terminationpred.onrender.com.
+
+**Note, it might take a few seconds to start up if it has been idle.**
+
+
+You can use this service by editing the url variable in the `test.py` script and changing it to ``https://terminationpred.onrender.com/predict``.
